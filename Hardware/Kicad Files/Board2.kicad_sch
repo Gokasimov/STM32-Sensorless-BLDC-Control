@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "34cac787-a60b-4e3f-ad33-36bec4fb1e4e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 118.11 24.13)
+		(size 77.47 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ecf9062-d8b9-4331-8203-6509b2cfb874")
+		(property "Sheetname" "PowerRegulation"
+			(at 118.11 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerRegulation.kicad_sch"
+			(at 118.11 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deneme2"
+				(path "/34cac787-a60b-4e3f-ad33-36bec4fb1e4e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 62.23)
+		(size 76.2 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "967a6970-3a58-4746-bb0e-ab668776d9f5")
+		(property "Sheetname" "Encoder"
+			(at 118.11 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Encoder.kicad_sch"
+			(at 118.11 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deneme2"
+				(path "/34cac787-a60b-4e3f-ad33-36bec4fb1e4e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 95.25)
+		(size 77.47 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a03ff091-d6ec-47af-a96c-976562aadf3e")
+		(property "Sheetname" "CurrentSensor"
+			(at 21.59 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CurrentSensor.kicad_sch"
+			(at 21.59 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deneme2"
+				(path "/34cac787-a60b-4e3f-ad33-36bec4fb1e4e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 132.08)
+		(size 76.2 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ca802b3f-791a-4f53-8ee6-4505aed91a37")
+		(property "Sheetname" "Stm32"
+			(at 22.86 131.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stm32.kicad_sch"
+			(at 22.86 154.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deneme2"
+				(path "/34cac787-a60b-4e3f-ad33-36bec4fb1e4e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 22.86)
+		(size 76.2 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "efb2cc6c-11e1-43f3-ab63-0f21f47fcf48")
+		(property "Sheetname" "GateDriver"
+			(at 21.59 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "GateDriver.kicad_sch"
+			(at 21.59 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deneme2"
+				(path "/34cac787-a60b-4e3f-ad33-36bec4fb1e4e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 60.96)
+		(size 77.47 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f181559f-ce74-4ec3-b773-a20376c64817")
+		(property "Sheetname" "PowerStage"
+			(at 21.59 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerStage.kicad_sch"
+			(at 21.59 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "deneme2"
+				(path "/34cac787-a60b-4e3f-ad33-36bec4fb1e4e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
